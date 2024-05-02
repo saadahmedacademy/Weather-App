@@ -1,0 +1,29 @@
+@media  screen and (max-width:472px ) {
+    form button {
+        padding: 8px 8px ;
+        margin: 10px;
+        border-radius: 6px ;
+        text-align: center
+    };
+    .weatherHeading{
+        font-size: 7px;
+    }
+   
+     .weatherInput input{
+        width: 236px;
+        border-radius: 0.5rem;
+        position: relative;
+        left: 25px;
+        right: 77px;
+        margin-left:1px ;
+    }
+    .weatherInput button{
+        padding-left: 83px;
+        padding-right: 100px;
+        margin-left: 23px;
+
+    }
+    .showWeather{
+        width:300px;
+    }
+} 
